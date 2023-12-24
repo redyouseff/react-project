@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "firstname": "youssef",
+      "lastname": "ali",
+      "email": "yousef@gmail.com",
+      "password": "1234",
+      "city": "cairo",
+      "id": 1
+    },
+    {
+      "firstname": "youssef",
+      "lastname": "muhammed",
+      "email": "youssef",
+      "password": "1234",
+      "city": "cairo",
+      "id": 2
+    },
+    {
+      "firstname": "youssef",
+      "lastname": "muhammed",
+      "email": "youssef",
+      "password": "1111",
+      "city": "cairo",
+      "id": 3
+    },
+    {
+      "firstname": "yousef",
+      "lastname": "alkret",
+      "email": "jj@gmail.com",
+      "password": "123",
+      "city": "cairo",
+      "id": 4
+    },
+    {
+      "firstname": "yousef",
+      "lastname": "alkret",
+      "email": "yousef@gmail.com",
+      "password": "123",
+      "city": "cairo",
+      "id": 5
+    },
+    {
+      "firstname": "marwan ",
+      "lastname": "elmehy",
+      "email": "marwan@gmail.com",
+      "password": "1234",
+      "city": "cairo",
+      "id": 6
+    }
+  ]
+}
